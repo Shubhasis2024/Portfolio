@@ -1,0 +1,70 @@
+h1{
+    text-align: center;
+    color:rgb(212, 201, 197) ;
+   
+    background-color: rgb(106, 0, 255);
+}
+body{
+   background-image:url(wide-angle.jpg); 
+   background-repeat: no-repeat;
+background-size: cover;
+background-attachment:scroll;
+ margin-right: auto;
+ border:black;
+ padding: 10px 50px 55px 50px;
+}
+.click{
+    text-align: center;
+    color: rgb(205, 255, 80);
+    background-color: blue;
+}
+button{
+    background-color: rgb(43, 212, 9);
+}
+.about{
+    color:rgb(4, 1, 14);
+    text-align: justify;
+    font-size: larger;
+    font-style:strong;
+    
+}
+.photo1{
+    display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%
+    
+}
+.photo2{
+    display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%
+}
+.photo3{
+    display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%
+}
+.photo4{
+    display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%
+}
+p{
+    text-decoration: solid;
+    color: chartreuse;
+}
+h5{
+    text-align: right;
+    color:chartreuse;
+}
+#first{
+    color:blue;
+}
+#mode{
+    text-align: center
+
+}
